@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+h1{
+  color: #EEABC2D1;
+ position:absolute;
+  left:5%;
+  top:0%;
+  text-shadow: 3px 3px rgb(233,203,208);
+  font-size: 50px;
+}

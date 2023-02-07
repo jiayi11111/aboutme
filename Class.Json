@@ -1,0 +1,146 @@
+{
+   "brain":[
+      {
+        
+         "triggers":[
+             "what is your name",
+            "name",
+            "who are you",
+            "who",
+            "your information",
+            "information",
+           "Grade",
+           "year",
+           "tell me about yourself",
+           "tell me about you"
+
+            
+         ],
+         "responses":[
+              "Hi,my name is Jiayi. Nice to meet you!",
+            "Hi,my name is Jiayi. I am in IMA second year.",
+            "Hi, my name is Jiayi. I come form China. How are you?"
+
+            
+         ],
+        "url":[
+          "https://cdn.dribbble.com/users/1261045/screenshots/11402331/media/1968757c491841f0bafb6322b01c24f0.gif"
+        ]
+      },
+     
+      {
+         "triggers":[
+             "hobby",
+            "like",
+            "do in free time",
+            "Interest",
+            "what is your hobbies"
+           
+
+            
+         ],
+         "responses":[
+            "I enjoy traveling, listening music in my free time.",
+"In my free time, I usually traveling aorund and listen music"
+
+         ],
+        "url":[
+          "https://media.tenor.com/PaWj2HJ3rBsAAAAM/listening-to-music-headphones.gif"
+        ]
+      },
+     
+     {
+         "triggers":[
+             "hi",
+            "hello"
+         
+
+            
+         ],
+         "responses":[
+              "HI.",
+           "Hi, nice to meet you."
+
+            
+         ],
+       "url":[
+         "https://media.tenor.com/mhLPO2VldCkAAAAM/0001.gif"
+       ]
+      },
+     
+      {
+         "triggers":[
+             "how are you",
+            "how is your day",
+           "fine"
+         
+
+            
+         ],
+         "responses":[
+              
+           "Great. What about you?"
+
+            
+         ],
+        "url":["https://media.tenor.com/OwHJNXsZHicAAAAM/hello-hi.gif"]
+        
+      },
+     
+      {
+         "triggers":[
+             "age",
+           "birthday"
+           
+         
+
+            
+         ],
+         "responses":[
+              "I am 20 years old",
+           "March is my 21 years old' birthday"
+        
+
+            
+         ],
+        "url":[
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4d19890287115.5e139f5047d55.gif"
+        ]
+      },
+     
+      {
+         "triggers":[
+            "color",
+            "which color",
+            "favorite color"
+          
+            
+
+            
+         ],
+         "responses":[
+            "My favorite color is bright yellow, so I like sunny day.",
+"I like bright yellow color that I like sunny day."
+
+
+         ],
+        
+        "url":[
+          "https://img.tukuppt.com/bg_grid/00/13/10/OtckKDIv5s.jpg!/fh/350"
+        ]
+      }
+     
+     
+   ],
+  
+"catchall":[
+       "I'm not sure I get what you're saying. Ask me other question.",
+ "Sorry, I don't understand what you mean.",
+ " I think you can try to ask me other questions."
+
+   ]
+   
+  
+}
+
+
